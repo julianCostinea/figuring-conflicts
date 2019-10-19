@@ -1,2 +1,2 @@
 var number=50;
-var string='hello world';
+var string='hello all';
